@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetods", "StringMetods\StringMetods.csproj", "{EC65122B-F024-421C-AB77-CE8EA308F69E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E21E851-C468-4632-B07F-7B8013D5AD42} = {7E21E851-C468-4632-B07F-7B8013D5AD42}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMechanics", "StringMechanics\StringMechanics.csproj", "{7E21E851-C468-4632-B07F-7B8013D5AD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC65122B-F024-421C-AB77-CE8EA308F69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC65122B-F024-421C-AB77-CE8EA308F69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC65122B-F024-421C-AB77-CE8EA308F69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC65122B-F024-421C-AB77-CE8EA308F69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E21E851-C468-4632-B07F-7B8013D5AD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E21E851-C468-4632-B07F-7B8013D5AD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E21E851-C468-4632-B07F-7B8013D5AD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E21E851-C468-4632-B07F-7B8013D5AD42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9E96E4-4D66-4F36-B252-C91E070E78F7}
+	EndGlobalSection
+EndGlobal
